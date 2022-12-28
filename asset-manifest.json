@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/boda_ruben_anahi/static/css/main.efa8cccc.css",
-    "main.js": "/boda_ruben_anahi/static/js/main.e1116d80.js",
-    "static/js/787.fe8d1783.chunk.js": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js",
-    "static/media/Vaticano.PNG": "/boda_ruben_anahi/static/media/Vaticano.82114005534c923aff38.PNG",
-    "static/media/Evento.PNG": "/boda_ruben_anahi/static/media/Evento.534d04fcc70e6908fee1.PNG",
-    "static/media/11.jpg": "/boda_ruben_anahi/static/media/11.1c38c8898512a048bf70.jpg",
-    "static/media/2.jpg": "/boda_ruben_anahi/static/media/2.3925a964adf4e303de21.jpg",
-    "index.html": "/boda_ruben_anahi/index.html",
-    "main.efa8cccc.css.map": "/boda_ruben_anahi/static/css/main.efa8cccc.css.map",
-    "main.e1116d80.js.map": "/boda_ruben_anahi/static/js/main.e1116d80.js.map",
-    "787.fe8d1783.chunk.js.map": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js.map"
+    "main.css": "/inicio/static/css/main.a26124e6.css",
+    "main.js": "/inicio/static/js/main.7ee5af68.js",
+    "static/js/787.fe8d1783.chunk.js": "/inicio/static/js/787.fe8d1783.chunk.js",
+    "static/media/Vaticano.PNG": "/inicio/static/media/Vaticano.82114005534c923aff38.PNG",
+    "static/media/Evento.PNG": "/inicio/static/media/Evento.534d04fcc70e6908fee1.PNG",
+    "static/media/11.jpg": "/inicio/static/media/11.1c38c8898512a048bf70.jpg",
+    "static/media/2.jpg": "/inicio/static/media/2.3925a964adf4e303de21.jpg",
+    "index.html": "/inicio/index.html",
+    "main.a26124e6.css.map": "/inicio/static/css/main.a26124e6.css.map",
+    "main.7ee5af68.js.map": "/inicio/static/js/main.7ee5af68.js.map",
+    "787.fe8d1783.chunk.js.map": "/inicio/static/js/787.fe8d1783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efa8cccc.css",
-    "static/js/main.e1116d80.js"
+    "static/css/main.a26124e6.css",
+    "static/js/main.7ee5af68.js"
   ]
 }
