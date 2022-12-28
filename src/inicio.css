@@ -1,0 +1,60 @@
+.presentacion{
+  margin-top: -350px;
+  
+  
+}
+
+
+
+
+.nuestra_boda{
+text-align: center;
+font-size: 3em;
+z-index: 10;
+}
+
+.anahi_ruben{
+    text-align: center;
+    font-size: 5em;
+     z-index: 10;
+     
+}
+
+.donde{
+    padding-top: 150px;
+}
+
+.info_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.info_flex img{
+    border-radius: 10px;
+    width: 100%;
+    height: 300px;
+}
+
+.donde{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.ceremonia, .recepcion, .itinerario{
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 20px;
+    background-color: white;
+}
+
+.btn_map{
+    background-color: rgba(0,0,0,0.2);
+    text-align: center;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px 20px 10px 20px;
+    margin: auto;
+    margin-top: 20px;
+}
