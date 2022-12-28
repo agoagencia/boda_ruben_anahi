@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/agoagencia/boda_anahi_y_ruben.git/static/css/main.db47b734.css",
-    "main.js": "/agoagencia/boda_anahi_y_ruben.git/static/js/main.a53a050e.js",
-    "static/js/787.fe8d1783.chunk.js": "/agoagencia/boda_anahi_y_ruben.git/static/js/787.fe8d1783.chunk.js",
-    "static/media/Vaticano.PNG": "/agoagencia/boda_anahi_y_ruben.git/static/media/Vaticano.82114005534c923aff38.PNG",
-    "static/media/Evento.PNG": "/agoagencia/boda_anahi_y_ruben.git/static/media/Evento.534d04fcc70e6908fee1.PNG",
-    "static/media/11.jpg": "/agoagencia/boda_anahi_y_ruben.git/static/media/11.1c38c8898512a048bf70.jpg",
-    "static/media/2.jpg": "/agoagencia/boda_anahi_y_ruben.git/static/media/2.3925a964adf4e303de21.jpg",
-    "index.html": "/agoagencia/boda_anahi_y_ruben.git/index.html",
-    "main.db47b734.css.map": "/agoagencia/boda_anahi_y_ruben.git/static/css/main.db47b734.css.map",
-    "main.a53a050e.js.map": "/agoagencia/boda_anahi_y_ruben.git/static/js/main.a53a050e.js.map",
-    "787.fe8d1783.chunk.js.map": "/agoagencia/boda_anahi_y_ruben.git/static/js/787.fe8d1783.chunk.js.map"
+    "main.css": "/boda_ruben_anahi/static/css/main.efa8cccc.css",
+    "main.js": "/boda_ruben_anahi/static/js/main.e1116d80.js",
+    "static/js/787.fe8d1783.chunk.js": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js",
+    "static/media/Vaticano.PNG": "/boda_ruben_anahi/static/media/Vaticano.82114005534c923aff38.PNG",
+    "static/media/Evento.PNG": "/boda_ruben_anahi/static/media/Evento.534d04fcc70e6908fee1.PNG",
+    "static/media/11.jpg": "/boda_ruben_anahi/static/media/11.1c38c8898512a048bf70.jpg",
+    "static/media/2.jpg": "/boda_ruben_anahi/static/media/2.3925a964adf4e303de21.jpg",
+    "index.html": "/boda_ruben_anahi/index.html",
+    "main.efa8cccc.css.map": "/boda_ruben_anahi/static/css/main.efa8cccc.css.map",
+    "main.e1116d80.js.map": "/boda_ruben_anahi/static/js/main.e1116d80.js.map",
+    "787.fe8d1783.chunk.js.map": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db47b734.css",
-    "static/js/main.a53a050e.js"
+    "static/css/main.efa8cccc.css",
+    "static/js/main.e1116d80.js"
   ]
 }
