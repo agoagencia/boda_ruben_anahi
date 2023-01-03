@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/boda_ruben_anahi/static/css/main.fb0df22d.css",
-    "main.js": "/boda_ruben_anahi/static/js/main.4d349752.js",
+    "main.css": "/boda_ruben_anahi/static/css/main.92920614.css",
+    "main.js": "/boda_ruben_anahi/static/js/main.37ae44a4.js",
     "static/js/787.fe8d1783.chunk.js": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js",
     "static/media/Vaticano.PNG": "/boda_ruben_anahi/static/media/Vaticano.82114005534c923aff38.PNG",
     "static/media/11.jpg": "/boda_ruben_anahi/static/media/11.1c38c8898512a048bf70.jpg",
@@ -9,12 +9,12 @@
     "static/media/catedral.jpg": "/boda_ruben_anahi/static/media/catedral.ca96a8965c2522f5c0cc.jpg",
     "static/media/whatsapp.png": "/boda_ruben_anahi/static/media/whatsapp.288c668ccb8033e17ce1.png",
     "index.html": "/boda_ruben_anahi/index.html",
-    "main.fb0df22d.css.map": "/boda_ruben_anahi/static/css/main.fb0df22d.css.map",
-    "main.4d349752.js.map": "/boda_ruben_anahi/static/js/main.4d349752.js.map",
+    "main.92920614.css.map": "/boda_ruben_anahi/static/css/main.92920614.css.map",
+    "main.37ae44a4.js.map": "/boda_ruben_anahi/static/js/main.37ae44a4.js.map",
     "787.fe8d1783.chunk.js.map": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb0df22d.css",
-    "static/js/main.4d349752.js"
+    "static/css/main.92920614.css",
+    "static/js/main.37ae44a4.js"
   ]
 }
