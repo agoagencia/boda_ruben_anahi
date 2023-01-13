@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/boda_ruben_anahi/static/css/main.f102c049.css",
+    "main.css": "/boda_ruben_anahi/static/css/main.6a25fd8d.css",
     "main.js": "/boda_ruben_anahi/static/js/main.3105d3f0.js",
     "static/js/787.fe8d1783.chunk.js": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js",
     "static/media/foto2-boda.png": "/boda_ruben_anahi/static/media/foto2-boda.0a03a61d45972d2264ce.png",
@@ -10,12 +10,12 @@
     "static/media/whatsapp.png": "/boda_ruben_anahi/static/media/whatsapp.288c668ccb8033e17ce1.png",
     "static/media/formal2.jpg": "/boda_ruben_anahi/static/media/formal2.30bdb7a01939ee2f068d.jpg",
     "index.html": "/boda_ruben_anahi/index.html",
-    "main.f102c049.css.map": "/boda_ruben_anahi/static/css/main.f102c049.css.map",
+    "main.6a25fd8d.css.map": "/boda_ruben_anahi/static/css/main.6a25fd8d.css.map",
     "main.3105d3f0.js.map": "/boda_ruben_anahi/static/js/main.3105d3f0.js.map",
     "787.fe8d1783.chunk.js.map": "/boda_ruben_anahi/static/js/787.fe8d1783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f102c049.css",
+    "static/css/main.6a25fd8d.css",
     "static/js/main.3105d3f0.js"
   ]
 }
